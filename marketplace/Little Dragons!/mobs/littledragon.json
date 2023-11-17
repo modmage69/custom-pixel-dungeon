@@ -12,19 +12,19 @@
         "die_fps":12,
         "die_frames":[7,8,9,10]
     },
-    "hp":10,
-    "exp":2,
-    "max_lvl":5,
+    "hp":25,
+    "exp":6000,
+    "max_lvl":1000,
     "speed":1,
-    "accuracy":7,
+    "accuracy":10,
     "min_damage":1,
-    "max_damage":4,
-    "min_armor":0,
-    "max_armor":3,
-    "loot":{
-        "type":"potions.PotionOfLiquidFlame"
+    "max_damage":1,
+    "min_armor":4,
+    "max_armor":4,
+    "loot":200
+        "type":"potions.PotionOfStrength"
     },
-    "loot_chance":0.11,
+    "loot_chance":100,
     "enchantments":[
        {"type":"enchantments.Blazing",
         "chance":0.40,
